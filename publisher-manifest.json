@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "24647b55352a919faf4b03ab",
+  "owner": "wdykarp",
+  "repo": "page-a2af523131dd5fc37cad4205",
+  "title": "GPT代充",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a2af523131dd5fc37cad4205",
+      "a": "GPT代充",
+      "b": "",
+      "entity": "GPT代充",
+      "brand": "GPT代充",
+      "separator": "",
+      "path": "index.html",
+      "hash": "526487ad1d50af8930db54ef9454f71b0394f718f2bb64cef63775b6c4ea890e",
+      "content": {
+        "keyword1": "GPT代充",
+        "keyword2": "",
+        "primary_entity": "GPT代充",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT代充是面向机场订阅与网络加速的说明页，介绍基础版、旗舰版与团队版套餐、使用场景、客户端下载和配置流程。",
+          "AI_DESCRIPTION": "GPT代充是面向机场订阅与网络加速的说明页，介绍基础版、旗舰版与团队版套餐、使用场景、客户端下载和配置流程。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0}body{overflow-x:hidden;background:#071422;color:#e7f2f8;font-family:system-ui,-apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;font-size:17px;line-height:1.75}main{max-width:1080px;margin:0 auto;padding:20px 16px 40px}a{color:#67e8f9}h1{font-size:2rem;line-height:1.3;margin:0 0 10px;color:#f8fdff}h2{font-size:1.45rem;line-height:1.35;margin:2rem 0 .8rem;padding-left:10px;border-left:4px solid #22d3ee;color:#a5f3fc}h3{font-size:1.12rem;line-height:1.4;margin:0 0 .4rem;color:#ecfeff}.kicker{margin:0 0 6px;color:#67e8f9;font-size:.92rem}.lead{margin:0 0 12px;font-size:1.05rem}nav{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 8px}nav a{background:#0e7490;color:#f0fdff;text-decoration:none;border-radius:999px;padding:6px 10px;font-size:.92rem}.grid{display:grid;grid-template-columns:1fr;gap:14px}.grid>*{min-width:0}.card,.step{background:#0e2438;border:1px solid #155e75;border-radius:14px;padding:14px 14px 16px}.featured{border-color:#22d3ee}.price{margin:.2rem 0;font-size:1.55rem;color:#67e8f9}.annual{margin:0 0 .4rem;color:#99f6e4}.badge{display:inline-block;margin:0 0 6px;padding:2px 8px;border-radius:999px;background:#155e75;color:#ecfeff;font-size:.82rem}ul,ol{margin:.3rem 0 .4rem;padding-left:1.2rem}li{margin:.25rem 0}.step{margin:0 0 12px}details{background:#0e2438;border:1px solid #155e75;border-radius:10px;padding:10px 12px;margin:0 0 10px}summary{cursor:pointer;font-weight:700;color:#f8fdff}p{margin:.4rem 0;overflow-wrap:anywhere}footer p{margin:18px 0 0;color:#c5d5e0;font-size:.95rem}@media(min-width:800px){.grid-2{grid-template-columns:1.15fr .85fr}.grid-3{grid-template-columns:1fr 1fr 1fr}}</style><main><p class=\"kicker\">网络加速 · 机场订阅 · 客户端说明</p><h1>GPT代充</h1><p class=\"lead\">GPT代充把机场订阅、网络加速（常被称作梯子或加速器）和客户端下载说明放在同一页。按流量与同时在线设备选择套餐，再按配置流程导入订阅。本页介绍的是网络访问加速，不是模型账号代充，也不提供共享账号。</p><nav><a href=\"#about\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">订阅套餐</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav><section id=\"about\"><h2>品牌简介</h2><div class=\"grid grid-2\"><div><p>GPT代充面向需要相对稳定跨境访问的个人和小团队，以月付或年付提供机场订阅。套餐只按公布的流量、设备数和线路类型区分，不把未写明的能力说成已包含。</p><p>基础版适合轻量浏览；旗舰版在更高流量和设备数之外，写明全节点原生流媒体解锁、IPLC 专线游戏加速优化和优先工单；团队版提高额度，并包含定制路由与客户经理。GPT代充 VPN 的节点质量会随时段和本地运营商变化，选购时先看主要用途，再对照额度。</p><p>晚高峰、视频清晰度和游戏抖动都无法用固定数字保证。建议先用当前网络做一次短时连接测试，确认规则分流是否让国内流量直连。</p></div><aside class=\"card\"><h3>配置时先记住三步</h3><ol><li>按流量和设备数选定套餐。</li><li>从订单中的官方下载说明安装客户端。</li><li>导入订阅、选节点并检查连通与流量。</li></ol><p><a href=\"#guide\">进入完整配置流程</a></p></aside></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"grid grid-3\"><article class=\"card\"><h3>远程办公</h3><p>访问海外文档、代码托管或协作邮箱时，普通线路通常够用。基础版 100GB 与 3 台设备，适合手机、笔记本和一台备用机轮流在线。</p></article><article class=\"card\"><h3>学习与开发</h3><p>查阅文档和下载依赖时，选延迟稳定的节点，并把系统更新、应用商店等大流量改为直连，避免一个月额度被后台任务用完。</p></article><article class=\"card\"><h3>流媒体</h3><p>基础版是基础流媒体解锁，旗舰版写明全节点原生解锁。能否播放仍取决于片源地区策略，建议先短时试播再长时间观看。</p></article><article class=\"card\"><h3>游戏</h3><p>旗舰版的 IPLC 优化针对部分国际线路的绕路和抖动。它不能改变游戏服务器本身的排队和故障，本地无线不稳定时也应先检查路由器。</p></article><article class=\"card\"><h3>团队共用</h3><p>团队版为 20 台设备和 1000GB，适合由管理员统一维护订阅。定制路由的参数需单独沟通，不应把订阅地址发到公开群。</p></article><article class=\"card\"><h3>多设备切换</h3><p>同时在线按连接中的设备计算。超过上限时新的设备会连不上，先退出闲置客户端即可释放名额。</p></article></div></section><section id=\"plans\"><h2>机场订阅套餐</h2><p>价格与包含项如下。年付是一次支付全年，不是叠加在月付上的优惠券。未列出的节点数量、地区和退款比例都不要自行假定。</p><div class=\"grid grid-3\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#guide\">按基础版查看配置</a></p></article><article class=\"card featured\"><p class=\"badge\">常用选择</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#guide\">按旗舰版查看配置</a></p></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#guide\">按团队版查看配置</a></p></article></div></section><section id=\"guide\"><h2>配置流程</h2><p>开通后多数问题出在导入和分流，而不是反复更换套餐。按下面顺序操作，并且不要安装来源不明的脚本。</p><article class=\"step\"><h3>1. 核对订单里的订阅信息</h3><p>保存订阅地址、到期日、月流量和设备上限。订阅地址相当于访问凭证，只放在自己的客户端里。地址被截断或带上空格时，更新会得到空列表。</p></article><article class=\"step\"><h3>2. 安装与系统对应的客户端</h3><p>桌面使用 Windows 或 macOS 客户端，手机使用 Android 或 iOS 客户端。以订单给出的官方下载说明为准，本页只用锚点标出步骤，不链到外部安装包。公司设备被管理软件拦截时，先征得管理员同意。</p></article><article class=\"step\"><h3>3. 导入机场订阅</h3><p>在客户端选择从地址导入或添加订阅，粘贴后执行更新。成功时会出现节点列表。列表为空时，先原样核对链接，再确认账号未过期、流量未用尽，不要改用他人转发的地址。</p></article><article class=\"step\"><h3>4. 按用途选择节点</h3><p>办公和浏览可用普通线路。观看视频时再换标明流媒体的节点。游戏仅在已购旗舰版时考虑 IPLC 优化线路。同一时间保持一个主连接，避免多台设备无意义地占用名额。</p></article><article class=\"step\"><h3>5. 检查连通、分流和流量</h3><p>连接后打开一个常用网页。若国内应用明显变慢，把本地和国内流量改为直连，而不是全程强制走代理。随后看客户端里的已用流量，确认这次会话有没有被计入。</p></article><article class=\"step\"><h3>6. 日后更新订阅</h3><p>节点会调整，在客户端手动更新订阅即可，不必重新购买。接近月额度时减少高清视频和大文件。用尽后等待下一周期，或改订更高一档，不要重复导入同一条订阅。</p></article></section><section id=\"download\"><h2>客户端下载</h2><p>GPT代充的官网下载指：按系统安装受信任客户端，再导入你自己的订阅。不要使用标榜破解、免费共享节点的安装包，那些来源无法核对，也可能额外占用你的流量。</p><div class=\"grid grid-2\"><article class=\"card\"><h3>电脑</h3><p>安装后允许客户端监听本地代理端口，然后回到<a href=\"#guide\">配置流程</a>第 3 步导入。若安全软件提示证书或本地端口，只在你理解用途后放行。</p></article><article class=\"card\"><h3>手机和平板</h3><p>移动系统对后台代理限制较多。连接失败时先看系统是否允许 VPN 配置，再看订阅是否更新成功。具体包名以订单说明为准。</p></article></div><h3>路由器与团队分发</h3><p>团队版可由管理员在兼容路由上集中导入，比把地址分发给每个人更稳妥。企业定制路由没有放在本页的通用文件里，需要通过专属客户经理按实际网络单独确认。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>GPT代充提供的是哪种服务？</summary><p>本页的 GPT代充是机场订阅和网络加速说明，套餐分为基础版、旗舰版和团队版。它不销售模型会员代充，也不交易共享登录账号。</p></details><details><summary>官方下载是否直接给出安装包？</summary><p>不在本页放置外部安装地址。请使用订单中的官方下载说明，并对照上面的客户端下载与配置流程核对系统。页内链接只跳到对应小节。</p></details><details><summary>导入订阅后为什么没有节点？</summary><p>常见原因是地址被截断、账号过期或当月流量已经用完。先更新一次订阅；仍为空时核对订单状态。不要尝试使用公开频道里的替代订阅。</p></details><details><summary>流量用完以后会怎样？</summary><p>基础版每月 100GB，旗舰版 300GB，团队版 1000GB。用尽后本期加速不可继续，直到周期重置或你更换套餐。视频和系统更新最容易耗尽额度。</p></details><details><summary>同时在线是按注册设备还是按连接计算？</summary><p>按同一时刻正在连接的设备计算：基础版 3 台，旗舰版 5 台，团队版 20 台。断开后名额释放。虚拟机或模拟器可能被另计为一台。</p></details><details><summary>两种流媒体说明有什么差别？</summary><p>基础版写明解锁基础流媒体，旗舰版写明全节点原生流媒体解锁，可选范围更宽。两者都会受片源方策略影响，不能理解为所有平台永久可看。</p></details><details><summary>没有购买旗舰版能否使用 IPLC 游戏优化？</summary><p>不能。IPLC 专线游戏加速优化只列在旗舰版包含项中。基础版是普通线路节点池，团队版强调的是高带宽、定制路由和客户经理，并不自动包含该游戏优化。</p></details><details><summary>年付金额如何对应月费？</summary><p>基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，分别对应页面上的全年价格。中途停用是否退还，以你付款时的订单条款为准，这里不另作退款承诺。</p></details></section><footer><p>GPT代充 · 机场订阅、网络加速与客户端下载说明。请在当地规则允许的范围内使用，并自行保管订阅地址。</p></footer><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>",
+          "hash": "95ec3ffe9a1f2d51c59ef349c87f1e90a71b8746161356139fac069945579227",
+          "seo": {
+            "title": "GPT代充官网：机场订阅、网络加速与客户端下载",
+            "keywords": "GPT代充,GPT代充机场,GPT代充VPN,网络加速,加速器,梯子,机场订阅,客户端下载,官网下载",
+            "description": "GPT代充是面向机场订阅与网络加速的说明页，介绍基础版、旗舰版与团队版套餐、使用场景、客户端下载和配置流程。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rajrsyj.cn",
+    "host": "p-713fd01dce.rajrsyj.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "ba2b04ffcac1307813c9c321b0e9e0fde6d323915112445c9d62f51d53ef054e",
+    "sitemap.xml": "80c799a718cfa8699d0a6e11f1ab7f156bb946ee45ab5cfa86a95d4e966f71aa",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a65d2207b1d9c1cb89390e2e2ce921e88107a99f023333c7172bc99edd8715c8",
+    "robots.txt": "b6ea6ad718ce648aac700e81307517600352f181c280faa15076f0a66406ea8d",
+    "c6ca8685e943b3ceb65993e1fc0f66e5.txt": "86a61a67700c2ca6ff32d22bbd22ab93ea2f2732bbe27cd037cc10871b0d13fe"
+  },
+  "revision": "ce812dda46bea1d4aff6d7cdfa6c4c63281e6e8e86e55a09d38ea2de5a191619"
+}
